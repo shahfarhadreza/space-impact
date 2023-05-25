@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1684959008 source:e:\programming-stuff\game-development\space-impact\game.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+
+1684610707 e:\programming-stuff\game-development\space-impact\game.h
+
